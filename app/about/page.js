@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function page(){
     return (
         <div>
-          <h1>About Us</h1>
+          <h1>About Eisha Fatime</h1>
           <p>Information about the company.</p>
           <nav>
             <Link href="/">Home</Link> | 
